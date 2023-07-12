@@ -14,6 +14,7 @@ Event Loop:
 User Input:
 Retrieve user input from the GUI elements.
 Obtain the words or phrases provided by the user and the desired length of the password.
+
 ![outputMain](https://github.com/akbarameen/password-generator-py/assets/93811674/b4c9b3ec-0e8f-426b-9834-e24e96d4a5dd)
 
 Password Generation:
@@ -25,11 +26,13 @@ Display Password:
 Update the GUI to display the generated passwords.
 Show the passwords to the user in separate text areas.
 Allow the user to copy each password to the clipboard if needed.
+
 ![outputGeneratedPassword](https://github.com/akbarameen/password-generator-py/assets/93811674/59df1177-1bca-4803-8e49-80b7cd2c3dd4)
 
 Error Handling:
 Implement error handling mechanisms to handle any potential issues during the password generation process.
 Display informative error messages to the user if input validation fails or other errors occur.
+
 ![validationForEmptyInput](https://github.com/akbarameen/password-generator-py/assets/93811674/e9ea6b32-d8ed-4d33-88d5-91b7bb7dc9cf)
 
 Copying Password:
@@ -39,6 +42,7 @@ Copying Password:
 Provide feedback to the user indicating successful copying of the password.
 
 ![copiedpass2](https://github.com/akbarameen/password-generator-py/assets/93811674/cf433c43-321b-4cca-8bd2-8c3cadf533e2)
+
 ![copiedpass](https://github.com/akbarameen/password-generator-py/assets/93811674/a61b965f-06b5-4d58-a773-94e551c60f95)
 
 Documentation and Testing:
